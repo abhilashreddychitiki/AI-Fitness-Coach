@@ -1,0 +1,16 @@
+.next/
+node_modules/
+.env
+.env.local
+.env*.local
+!.env.example
+.data/
+coverage/
+dist/
+*.tsbuildinfo
+
+# Ignore unnecessary documents and agents.md
+AGENTS*.md
+agents*.md
+docs/
+presentation/
