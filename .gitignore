@@ -17,3 +17,6 @@ butterbase/frontend-static-deploy-*.zip
 AGENTS*.md
 agents*.md
 presentation/
+docs/deck-outline.md
+docs/demo-script.md
+docs/submission-checklist.md
