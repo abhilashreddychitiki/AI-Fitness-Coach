@@ -620,7 +620,7 @@ function buildPlan(gym, member) {
     gymId: gym.id,
     memberId: member.id,
     createdAt: Date.now(),
-    videos: flow.map((item, index) => ({
+    videos: flow.map((item) => ({
       title: personalizedTitle(item.title, safeName, member.goal),
       type: item.title,
       duration: item.duration,

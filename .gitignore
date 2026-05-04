@@ -7,10 +7,13 @@ node_modules/
 .data/
 coverage/
 dist/
+out/
+.vercel/
 *.tsbuildinfo
+*.log
+butterbase/frontend-static-deploy-*.zip
 
-# Ignore unnecessary documents and agents.md
+# Ignore local planning and generated presentation artifacts
 AGENTS*.md
 agents*.md
-docs/
 presentation/

@@ -1,7 +1,18 @@
 {
   "name": "ai-fitness-coach",
   "version": "0.1.0",
+  "description": "Premium Next.js demo for AI-personalized gym onboarding videos.",
   "private": true,
+  "homepage": "https://ai-fitness-coach-spread.butterbase.dev",
+  "keywords": [
+    "ai",
+    "fitness",
+    "nextjs",
+    "typescript",
+    "video-generation",
+    "butterbase",
+    "hackathon"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
